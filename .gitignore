@@ -1,0 +1,5 @@
+data/
+results/
+*.sam
+*.bam
+*.fastq.gz
